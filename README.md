@@ -61,3 +61,9 @@ Each scenario includes:
 ┃ ┗ 📄 Hooks.java
 ┣ 📄 pom.xml
 ┗ 📄 README.md
+---
+📊 Test Reports
+Cucumber default HTML reports:
+target/cucumber-reports/index.html
+
+---
